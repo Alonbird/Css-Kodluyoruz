@@ -1,0 +1,71 @@
+
+/* Ekranın arka rengi */
+body {
+    background-color: #393E46;
+}
+
+/* Bazı yazıların rengini değiştirmek için kullandım */
+.blue-text {
+    color: #00ADB5;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #EEEEEE;
+    text-align: center;
+}
+
+/* Paragrafların ve listeler için düzenleme */
+.paragraphs {
+    text-align: center;
+    list-style-position: inside;
+}
+
+.link-nav {
+    text-align: center;
+    text-decoration: none;
+    
+}
+
+a {
+    color:darkseagreen;
+
+}
+
+.imagesArea {
+    background-color: #fff;
+    width: 40%;
+    margin: auto;
+    border-radius: 5px;
+    height: 100%;
+    text-align: center;
+}
+
+.red-text {
+    color:red;
+}
+
+.orange-text {
+    color: darkorange;
+}
+
+.for-image {
+    height: 300px;
+    width: 300px;
+    
+}
+
+.average-image {
+    border: solid 2px red;
+    border-radius: 50px;
+    width: 65%;
+    height: 400px;
+    padding: 0;
+    margin: auto;
+    margin-bottom: 10px;    
+
+}
+
+footer {
+    text-align: center;
+    font-size: 15px;
+}
